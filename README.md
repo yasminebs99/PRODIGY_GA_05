@@ -36,10 +36,9 @@ Read more about how Neural Style Transfer works and its underlying algorithms in
 
 ### Getting More Information
 
-Link to your YouTube video demo: SOON
+Link to your YouTube video demo: https://youtu.be/COW22Iw5Nzc
 the vedio describe each ligne of the code and how to use the interface
 
-Link to LinkedIn post about the project: SOON
 
 ### Contact
 
